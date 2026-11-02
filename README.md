@@ -1,16 +1,19 @@
-## Hi there 👋
+# Каринэ Шахкян :milky_way:
 
-<!--
-**KarinaKarina6/KarinaKarina6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**ML/AI Engineer** — end-to-end пайплайны, инференс, LLM-интеграции
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Магистр прикладной математики и информатики, бакалавр экономики.
+
+## Что я делаю
+- Строю ML-пайплайны от данных до работающего сервиса
+- Оптимизирую инференс под ограниченные ресурсы (VRAM, CPU/GPU)
+- Добавляю LLM-постобработку: Gemini API, промпт-инжиниринг, ASR
+
+## Избранное
+- [Lecture to Notes](https://github.com/KarinaKarina6/lecture-to-notes) — 
+  транскрибация и конспектирование видеолекций (GigaAM-v3 + Gemini API, 
+  инференс под 4 ГБ VRAM)
+
+## Контакты
+Telegram: @KarineKery · Email: kshahkyan@yandex.ru
